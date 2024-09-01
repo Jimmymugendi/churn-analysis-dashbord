@@ -22,9 +22,9 @@ This project focuses on building a comprehensive Churn Analysis Dashboard tailor
 * Gained skills in creating visually appealing and insightful dashboards that present customer data in a digestible format for stakeholders.
   
 ### Technology Stack
-* Data Processing: Python, Pandas
-* Visualization: Tableau / Power BI (adjust based on what you used)
-* Deployment: GitHub Pages / Streamlit (adjust based on what you used)
+* Data Processing: Python
+* Visualization: Power BI 
+* Deployment: GitHub Pages 
 
 #### Why This Project Matters
 Real-World Impact: This dashboard provides a solution to a critical business challenge faced by telecom companies, making it easier to retain customers before they terminate contracts.
