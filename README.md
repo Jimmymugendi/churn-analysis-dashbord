@@ -25,7 +25,7 @@ This project focuses on building a comprehensive Churn Analysis Dashboard tailor
 * Data Processing: Python, Pandas
 * Visualization: Tableau / Power BI (adjust based on what you used)
 * Deployment: GitHub Pages / Streamlit (adjust based on what you used)
-* 
+
 #### Why This Project Matters
 Real-World Impact: This dashboard provides a solution to a critical business challenge faced by telecom companies, making it easier to retain customers before they terminate contracts.
 Strategic Insight: It showcases how data-driven visualizations can support management in making informed, strategic decisions to boost customer satisfaction and reduce churn.
